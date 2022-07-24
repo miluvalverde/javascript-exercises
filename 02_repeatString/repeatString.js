@@ -8,7 +8,7 @@ const repeatString = function(string, num) {
     else if (num === 0) {
         return string.repeat(num)
     }
-    }
+}
 
 
 // Do not edit below this line
